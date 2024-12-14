@@ -1,89 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alyssa Coxes CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alyssa Cox
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="cox24018@byui.edu">cox24018@byui.edu</a>
+| <a href="https://www.linkedin.com/in/alyssa-cox-2768022a3/">My LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Learing HTML, CSS, and SQL
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Python
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016-2020`
+__Mountianside High School__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`August 2020 - April 2024 `
+__Brigham Young University, Provo__
 
-- Sizar
+`September 2024 - now`
+__Brigham Young University - Idaho, Rexburg__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- B.S. of Data Science
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`November 2020 - October 2021`
+__Customer Service Associate__, The Home Depot
 
-- Warden
-- Minted coins
+- Processed payments and returns with accuracy and efficiency.
+-  Directed customers to appropriate departments for additional
+support.
+- Resolved customer complaints while prioritizing customer
+satisfaction and loyalty.
+- Answered customer telephone calls promptly to avoid on-hold
+wait times.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Sep 2021 - Oct 2021, May 2023 - Aug 2023, May 2024 - Sep 2024`
+__Market Team__, Hoffman Farms Store
+- Provided exemplary customer service by engaging with guests and guiding them seamlessly through the payment and checkout procedures, thereby enhancing their overall experience.
+- Demonstrated proficiency in operating POS systems while collaborating with team members to maintain fully stocked and visually appealing market displays.
+- Exhibited confidence in interactions with guests, with a focus on adeptly upselling products by imparting comprehensive knowledge about the farm, bakery, and merchandise offerings.
 
 
+## Volunteering
+`Jan 2019 - Mar 2020`
+__AVID Tutor__, Beaverton School District
+- Facilitated student-led tutorial groups of seven students
+- Established and maintained rapport with students
+- Determined from student notes and discussions the concepts that need to be taught or re-taught
+- Set an example of personal excellence and high expectations for all AVID students to follow
+- Communicate frequently and honestly with the AVID coordinator regarding student progress and areas of concern
+
+`Nov 2021 - Apr 2023`
+__Volunteer__, The Church of Jesus Christ of Latter-day Saints
+- Set and accomplished weekly and long-term teaching and personal improvement goals.
+- Managed social media pages, overseeing content creation and posting schedules. Responsibilities included curating and posting engaging content and promptly responding to audience inquiries and messages.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2024 -->
